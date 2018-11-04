@@ -3,7 +3,7 @@
 //  amazon2
 //
 //  Created by Sergiy Fugol on 10/28/18.
-//  Copyright © 2018 Sergiy Fugol. All rights reserved.
+//  Copyright © 2017-2018 Sergiy Fugol. All rights reserved.
 //
 
 import UIKit
