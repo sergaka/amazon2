@@ -17,7 +17,6 @@ class ViewController: UIViewController {
         func ClosestXdestinations(numDestinations: Int, allLocations:[[Int]],
                                   numDeliveries: Int) -> [[Int]] {
 
-            //Write code here
             var deliveryDestinations = [[Int]]()
             var possibleDeliveryWays = [Double]()
             if numDeliveries > numDestinations { return deliveryDestinations }
